@@ -1,7 +1,7 @@
 ---
 package_name: "OALT"
 package_title: "OALT Shortcuts"
-package_desc: "DPC espanso package for use internally"
+package_desc: "OALT espanso package for use internally"
 package_version: "0.1.0"
 package_author: "oalttech"
 package_repo: "https://github.com/oalttech/OALT-Espanso"

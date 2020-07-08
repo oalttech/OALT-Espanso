@@ -8,9 +8,11 @@ package_repo: "https://github.com/oalttech/OALT-Espanso"
 ---
 Collections of various shortcuts for OALT at USQ
 
-To install, run the following command;
-		espanso install OALT-DPC https://github.com/oalttech/DPC-Espanso --external
-
+# Installation Instructions
+To install run the following command using Terminal or CMD
+```
+$ espanso install OALT https://github.com/oalttech/OALT-Espanso --external
+````
 # Version Log
 ## V 1.0
 ### Commands
